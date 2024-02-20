@@ -1,0 +1,29 @@
+
+body{
+  background-color: lightslategrey;
+  display: center;
+  margin: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+.submit{
+  background-color: green;
+}
+.reset{
+  background-color: red;
+}
+button{
+  color: white;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px 25px;
+}
+.form{
+  background-color: white; 
+  width: 300px;
+  height: 600px;
+  margin: auto;
+  max-width: 400px;
+  border-radius: 15px;
+  padding: 50px;
+  text-align: left;
+}
